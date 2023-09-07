@@ -1,4 +1,6 @@
 # RNN - Simple 
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20230518134831/What-is-Recurrent-Neural-Network.webp" width="1000" alt="REcurrent neural network "><img src="https://media.geeksforgeeks.org/wp-content/uploads/20230518134831/What-is-Recurrent-Neural-Network.webp" width="1000" alt="REcurrent neural network ">
+
 Note: This project copied from the original project https://github.com/uzzalmondal/Deep-Learning/tree/main/RNN and 
       youtube 
 
@@ -209,3 +211,5 @@ Epoch 99/100
 1/1 [==============================] - 0s 44ms/step - loss: 0.0229 - acc: 1.0000 - val_loss: 0.0203 - val_acc: 1.0000
 Epoch 100/100
 1/1 [==============================] - 0s 44ms/step - loss: 0.0225 - acc: 1.0000 - val_loss: 0.0200 - val_acc: 1.0000
+
+
